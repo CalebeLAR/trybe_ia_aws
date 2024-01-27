@@ -15,3 +15,12 @@ lecture06: Introdução à IA generativa na AWS
 lecture07: Testando seu conhecimento  
 lecture08: Para não esquecer mais  
 lecture09: Recursos adicionais  
+
+**Seção03: Conhecendo o CodeWhisperer**  
+lecture01: Introdução da seção  
+lecture02: Apresentação do problema que resolveremos  
+lecture03: Como acessar o Amazon CodeWhisperer  
+lecture04: Conhecendo a ferramenta  
+lecture05: Testando seu conhecimento  
+lecture06: Para não esquecer mais  
+lecture07: Referências e recursos adicionais  
