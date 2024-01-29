@@ -24,3 +24,13 @@ lecture04: Conhecendo a ferramenta
 lecture05: Testando seu conhecimento  
 lecture06: Para não esquecer mais  
 lecture07: Referências e recursos adicionais  
+
+**Seção04: Introdução ao Amazon Bedrock**  
+lecture01: Introdução da seção  
+lecture02: Para que serve o Bedrock  
+lecture03: Configuração de acesso ao Amazon Bedrock  
+lecture04: Acessando Amazon Bedrock em seu Ambiente Local  
+lecture05: Conhecendo a ferramenta  
+lecture06: Testando seu conhecimento  
+lecture07: Para não esquecer mais  
+lecture08: Referências e recursos adicionais  
