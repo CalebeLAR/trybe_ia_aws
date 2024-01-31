@@ -34,3 +34,22 @@ lecture05: Conhecendo a ferramenta
 lecture06: Testando seu conhecimento  
 lecture07: Para não esquecer mais  
 lecture08: Referências e recursos adicionais  
+
+
+**Seção05: Indo além com Amazon Sagemaker**  
+lecture01: Introdução da seção  
+lecture02: Apresentando o problema que iremos resolver  
+lecture03: Como acessar o Sagemaker  
+lecture04: Conhecendo a ferramenta  
+lecture05: Testando seu conhecimento  
+lecture06: Para não esquecer mais  
+lecture07: Referências e recursos adicionais  
+
+
+**Seção06: Fazendo deploy de uma solução na AWS**  
+lecture01: Introdução da seção  
+lecture02: Implantação na AWS  
+lecture03: Como fazer deploy de forma eficaz na AWS  
+lecture04: Testando seu conhecimento  
+lecture05: Para não esquecer mais  
+lecture06: Referências e recursos adicionais  
